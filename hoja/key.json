@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prueba01-379102",
+  "private_key_id": "8cd4c02116e0bf2148db2cae8c4590af978bf03c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC19yNLbCocUhXD\n1tgCYOYdzd9ojDvLEY11f6+x1NtyDGs4yDUcFS3v84OK6HcwOUcSAuY2NvL2GiPt\nc5ESyTVC3TG4MMjkU4J1fj89U8POtUDDcYR03PKK0N/3Sb99oCpXMgAm7f2i4QFo\n1vnY+/WdRpWpX3Lssmjx8JL9FpvjoOmpJAunc9My56ZvP8er5haQ28P5KOV8zpl0\n1gZ67JDLrxdVWqg7VUbNJjH6yuzaJOaHxavKiY+PDKM52o8MVyor4JlC2JyWcu49\n9l+a2kTH1IlTFObw9MmQUzRr+THH8UzqXLPJGNFaUbapKnOVIPwlWwv9uuoCB9MV\nzX4JCnA7AgMBAAECggEAEaI8gl+eCRaPU2YrkrdvNW4w+0Gzva8axUs1bIdTKM85\nSMxmES2gQQOZOMnkWwEB+SXcx14111GbL7SmV2q2RZ+H5PCdVzschmRQnpHShOKd\nvxLuIiETRA6P1bgI3ZS65a5Lw3oGvVUOvOkwVy27lJ01fa9pRLTZZLDKncomGz3f\n8Ea699f8K7EtF7/wejDx3GJLvdSMMQBGNNFY9vbUMY1WU0p3geciDztoCK56DJGJ\nN1EpQ9QrHLLgMKBxx1v7A9MMeUqyTw3AgtuyNiucIdV8bYgtq75FZG338sNXwVt1\nkwoWyEd/w+3GlHVP/Ejbg/Qfe5kALvVQzKzL1bruMQKBgQDbtqjFKL8DJHF3EkW7\nYTBXzBeSklJacE6MniWiRBqUzjWBatcQAVjfoQGE7dIFi3vx53hUWQs3tEW9I3jm\ndSVaDSYbvVpNV0xTpeDWnL2PusPn5ABuFIoFzTR0GFulXCm+TiVasE7n6lPto2I0\npdyrDuuhT8b2htfl8tqskA4IAwKBgQDUBINJdGOhbrRjzsREZWrj1tvPCyokcPiG\nNENn3qIhtCHWtP4Zw3PraQfiiWJm7CmWyyzeo4oTS4VH5WvXHVnx/LSX3pvfMuT/\nvn1oWRiLEmatztQr9JByog1xkwyokYpAG/e/i+YV9hOICSHVgOiAdTcg2GsxW0hx\nl0ujTEsNaQJ/fwUajOEBjM+EyVHG/o0xZZCYECSHd8F1p9XF7AlzVJPiWu9pZddh\nieeK+U6EHLCG91LaPek8kvelWbMoMhOHhIgVf/P4QL43YiSD147GCFHw8B7gIMO/\nB5uat4NdeDvP5jVHYyaKd4kA/GF4ZPd+m2YE0z1LyTorlsTPpvOhKQKBgQDMt07N\nLkTFK0+iz5NTN1nuhRfY4r7eUPanHu+265FBWd0So9B2r/LN66xhYKZTGtVNdQDu\nOJqp5tHaifuGyiB/N7JosdlvuoTDK/uLNfwszKe4S20yxAJ1rWOttn8ShPUo0dh2\na27O5bwWLjstHDtjTcrdPBrEnY9lnuC53IDbgQKBgFmfyteKLwNcO1W/Ez9rzBmy\nDzfQVYuZ7xEmxWHbdBTiQvb6tHp2UNkCa6ejIAdBzjn0Z7W1NTjWTWysiozqAN4f\n/Um++74zFi5B1potnWNoLeI7x+GrAxAv9dqsyol6sCkqJ5mi7TbXYIT2BfxTRSH7\nvztmO0MwmjuseVOQdq0e\n-----END PRIVATE KEY-----\n",
+  "client_email": "hoja-de-calculo-aed@prueba01-379102.iam.gserviceaccount.com",
+  "client_id": "113054777024746247359",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hoja-de-calculo-aed%40prueba01-379102.iam.gserviceaccount.com"
+}
